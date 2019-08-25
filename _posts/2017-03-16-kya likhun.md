@@ -5,7 +5,7 @@ description: "When I was bored"
 categories: [Poem]
 tags: [poems, bored]
 redirect_from:
-  - /2019/08/24/
+  - /2017/03/16/
 ---
 
 आज एक अख़बार के पन्ने पर नज़र पड़ी,<br/>
