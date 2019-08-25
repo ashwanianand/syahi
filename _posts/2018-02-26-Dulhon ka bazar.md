@@ -2,7 +2,7 @@
 layout: post
 title: "दूल्हों का बाज़ार"
 description: "My first short story"
-categories: [Short story]
+categories: [Story]
 tags: [dowry, marriage, market]
 redirect_from:
   - /2018/02/26/
