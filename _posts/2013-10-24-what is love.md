@@ -5,7 +5,7 @@ description: "My first ever poem, which I wrote when I was 15-16 years old"
 categories: [Poem]
 tags: [love, family, friends]
 redirect_from:
-  - /2013/
+  - /2013/10/24/
 ---
 
 What is love?<br/>
