@@ -50,6 +50,7 @@ author:
       url:
 home:
   section1: <h1>Ashwani Anand's blog<br><br><br>सियाही</h1>
+  section4: <h1>सियाही</h1>
   section2: <h2>Find my literary creations here</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ashwanianand/blog" title="View on GitHub"></a></div>
 blog:
