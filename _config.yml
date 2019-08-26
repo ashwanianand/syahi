@@ -50,8 +50,8 @@ author:
       url:
 home:
   section1: <h1>सियाही</h1>
-  section4: <h1>Ashwani Anand's blog</h1>
-  section2: <h2>Find my literary creations here</h2>
+  section4: <h2>Ashwani Anand's blog</h2>
+  section2: <h3>Find my literary creations here</h3>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ashwanianand/blog" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
