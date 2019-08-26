@@ -52,7 +52,7 @@ home:
   section1: <h1>स्याही</h1>
   section4: <h2>Ashwani Anand's blog</h2>
   section2: <h3>Find my literary creations here</h3>
-  section3: <div class="social-links"><a class="ico-gmail btn" href="mailto:{{ site.author.email }}" title="Mail me here"></a><a class="btn" href="http://www.cmi.ac.in/~ashwani" style="background-image:url('web-48.png');background-color:blue;" title="My webpage here"></a></div>
+  section3: <div class="social-links"><a class="ico-gmail btn" href="mailto:{{ site.author.email }}" title="Mail me here"></a><a class="btn" href="http://www.cmi.ac.in/~ashwani" style="background-image:url('web-48.png');background-color:gray;" title="My webpage here"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
